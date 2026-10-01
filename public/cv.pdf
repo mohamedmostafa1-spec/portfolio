@@ -1,0 +1,112 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 1649 >>
+stream
+BT
+/F1 20 Tf
+50 780 Td
+(Mohamed Mostafa Farag) Tj
+ET
+BT
+/F2 12 Tf
+50 760 Td
+(Junior Frontend Developer (React) | Egypt | mohamed2016mostafa@gmail.com) Tj
+ET
+BT
+/F1 14 Tf
+50 720 Td
+(SUMMARY) Tj
+ET
+BT
+/F2 10 Tf
+50 700 Td
+(Computer Science graduate (Arab Open University, 2025) focused on building responsive,) Tj
+0 -14 Td
+(user-friendly interfaces with React, JavaScript, HTML, and CSS. Quick learner with strong) Tj
+0 -14 Td
+(problem-solving skills, seeking an entry-level frontend role to contribute to a development team.) Tj
+ET
+BT
+/F1 14 Tf
+50 645 Td
+(SKILLS) Tj
+ET
+BT
+/F2 10 Tf
+50 625 Td
+(Frontend: React, JavaScript, HTML, CSS) Tj
+0 -14 Td
+(Backend & APIs: Python, Flask) Tj
+0 -14 Td
+(Machine Learning: TensorFlow, Deep Learning) Tj
+0 -14 Td
+(Other Languages: Java, C#) Tj
+0 -14 Td
+(Soft Skills: Problem-solving, team collaboration, fast learner, research) Tj
+0 -14 Td
+(Languages: Arabic (native), English (proficient)) Tj
+ET
+BT
+/F1 14 Tf
+50 515 Td
+(FEATURED PROJECT) Tj
+ET
+BT
+/F1 11 Tf
+50 495 Td
+(Retinal Disease Detection Web Application (Graduation Project)) Tj
+ET
+BT
+/F2 10 Tf
+50 475 Td
+(- Full-stack web app detecting retinal diseases from eye images using TensorFlow & Flask backend.) Tj
+0 -14 Td
+(- Designed and built responsive UI with HTML, CSS, JavaScript for image uploads and result display.) Tj
+0 -14 Td
+(- Independently handled full lifecycle: data handling, model integration, backend, and UI design.) Tj
+0 -14 Td
+(Tech Stack: TensorFlow, Flask, Python, JavaScript, HTML, CSS) Tj
+ET
+BT
+/F1 14 Tf
+50 395 Td
+(EDUCATION) Tj
+ET
+BT
+/F2 10 Tf
+50 375 Td
+(Bachelor of Computer Science, Arab Open University, Egypt (Graduated 2025)) Tj
+ET
+
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000257 00000 n 
+0000001958 00000 n 
+0000002033 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+2103
+%%EOF
